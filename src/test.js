@@ -1,6 +1,6 @@
 import React from 'react'
 
-function name () {
+function Name () {
     return (
         <dev>
             aaaaaaaaadsfasdfasdf
@@ -8,4 +8,4 @@ function name () {
     )
 }
 
-export default name
+export default Name
